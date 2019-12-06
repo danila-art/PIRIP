@@ -1,0 +1,128 @@
+.boxaudiofirst{
+ margin-top: 5%;
+ display: flex;
+}
+/*-----------------------------------------------------------------------------------------*/
+
+.boxaudio1{
+	margin-top: 5%;
+	margin-left: 15%;
+	width: 70%;
+	height: 70%;
+}
+.boximg1{
+	display: block;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	width: 70%;
+	height: 70%;
+	position: relative;
+	transition: all 0.2s linear;
+}
+.boxaudio1 h2 {
+	text-transform: uppercase;
+	color: #fff;
+	text-align: center;
+	position: relative;
+	font-size: 17px;
+	font-family: Raleway, serif;
+	padding: 10px;
+	/*background: rgba(0, 0, 0, 0.8);*/
+	margin: 20px 0 0 0;
+	transform: translateY(-100px);
+	opacity: 0;
+	font-family: Raleway, serif;
+	transition: all 0.2s ease-in-out;
+}
+.boxaudio1 a.boxa1{
+  display: inline-block;
+  text-decoration: none;
+  padding: 7px 14px;
+  background: #000;
+  color: #fff;
+  font-family: Raleway, serif;
+  text-transform: uppercase;
+  box-shadow: 0 0 1px #000
+  opacity: 0;
+  transition: all 0.2s ease-in-out;
+}
+.mask1{
+	opacity: 0;
+	background-color: rgba(58, 1, 132, 0.44);
+	transition: all 0.4s ease-in-out;
+}
+.boxaudio1:hover img {
+  transform: scale(1.1);
+}
+
+.boxaudio1:hover .mask {
+  opacity: 1;
+}
+
+.boxaudio1:hover h2,
+.boxaudio1:hover a.info {
+  opacity: 1;
+  transform: translateY(0px);
+}
+.boxaudio1:hover a.info {
+  transition-delay: 0.2s;
+}
+/*-----------------------------------------------------------------------------------------*/
+.boxaudio2{
+	margin-right: 15%;
+	margin-top: 5%;
+	width: 70%;
+	height: 70%;
+	
+}
+.boximg2{
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	width: 70%;
+	height: 70%;
+}
+.boxa2{
+	
+}
+/*-----------------------------------------------------------------------------------------*/
+.boxaudiosecond{
+ margin-top: 5%;
+ display: flex;
+}
+/*-----------------------------------------------------------------------------------------*/
+.boxaudio3{
+	margin-top: 5%;
+	margin-left: 15%;
+	width: 70%;
+	height: 70%;
+}
+.boximg3{
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	width: 70%;
+	height: 70%;
+}
+.boxa3{
+	
+}
+/*-----------------------------------------------------------------------------------------*/
+.boxaudio4{
+	margin-top: 5%;
+	margin-right: 15%;
+	width: 70%;
+	height: 70%;
+}
+.boximg4{
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+	width: 70%;
+	height: 70%;
+}
+.boxa4{
+	
+}
+/*-----------------------------------------------------------------------------------------*/

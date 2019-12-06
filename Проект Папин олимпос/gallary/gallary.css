@@ -1,0 +1,55 @@
+.firstline{
+display: flex;
+
+}
+
+div#container1{
+    border-style: none;
+    width: 450px;
+    height: 450px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+img#volgograd1{
+    width: 450px;
+    height: 450px;
+}
+div#container2{
+    border-style: none;
+    width: 450px;
+    height: 450px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+img#voronej1{
+    width: 450px;
+    height: 450px;
+}
+/*------------------------------*/
+.secondline{
+    display: flex;
+}
+div#container3{
+    border-style: none;
+    width: 450px;
+    height: 450px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+img#rostov{
+    width: 450px;
+    height: 450px;
+}
+
+div#container4{
+    border-style: none;
+    width: 450px;
+    height: 450px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+img#krasnodar{
+    width: 450px;
+    height: 450px;
+}
+

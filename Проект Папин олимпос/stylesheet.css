@@ -1,0 +1,439 @@
+
+body {
+    background-color: #888888;
+    display: inline-block;
+    background-image: url("images/desktopwallpapers.org.ua-5923.jpg");
+
+
+}
+
+.header {
+    display: inline-block;
+}
+
+div#black {
+    display: flex;
+    border-style: none;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+
+img#img1 {
+    width: 200px;
+    height: 100px;
+}
+
+.main {
+    /*display: flex;*/
+    padding: 1px;
+    border: solid 1px;
+    width: 1360px;
+    height: 300px;
+    background-position: center;
+    background-image: url("images/NotQxJI3MRY.jpg");
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.socialset {
+    display: flex;
+    border-style: none;
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
+.social a {
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    float: left;
+    background: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15), inset 0 0 50px rgba(0, 0, 0, 0.1);
+    border-radius: 24px;
+    margin: 0 10px 10px 0;
+    padding: 6px;
+    color: #000;
+}
+
+.youtube a:hover {
+    background: #c4302b;
+    color: #fff;
+}
+
+.twitter a:hover {
+    background: #00acee;
+    color: #fff;
+}
+
+.instagram a:hover {
+    background: #3f729b;
+    color: #fff;
+}
+
+.facebook a:hover {
+    background: #3b5998;
+    color: #fff;
+}
+
+.vk a:hover {
+    background: #5d84ae;
+    color: #fff;
+}
+
+.telegram a:hover {
+    background: #249bd7;
+    color: #fff;
+}
+
+.tumblr a:hover {
+    background: #34526f;
+    color: #fff;
+}
+
+.whatsapp a:hover {
+    background: #50b154;
+    color: #fff;
+}
+
+div#black2 {
+    display: flex;
+    border-style: none;
+    background-color: black;
+    width: 100%;
+    height: 70px;
+}
+
+.navigator {
+    display: flex;
+    border-style: none;
+    margin-top: 25px;
+}
+
+a#news {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    background: rgba(255, 255, 255, .2);
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+a#news:hover {
+    background: rgba(140, 140, 140, 0.51);
+}
+
+a#tours {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    background: rgba(255, 255, 255, .2);
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+a#tours:hover {
+    background: rgba(140, 140, 140, 0.51);
+}
+
+a#music {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    background: rgba(255, 255, 255, .2);
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+a#music:hover {
+    background: rgba(140, 140, 140, 0.51);
+}
+
+a#blog {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    background: rgba(255, 255, 255, .2);
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+a#blog:hover {
+    background: rgba(140, 140, 140, 0.51);
+}
+
+a#fhoto {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    background: rgba(255, 255, 255, .2);
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+a#fhoto:hover {
+    background: rgba(140, 140, 140, 0.51);
+}
+
+a#freinds {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    background: rgba(255, 255, 255, .2);
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+a#freinds:hover {
+    background: rgba(140, 140, 140, 0.51);
+}
+
+.fhoto {
+    display: flex;
+}
+
+div#img2 {
+    display: flex;
+    border-style: none;
+    width: 450px;
+    height: 450px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+img#img2-2 {
+    width: 450px;
+    height: 450px;
+    background-color: #ddd;
+    overflow: hidden;
+    position: relative;
+    -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    -o-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+}
+
+div#img3 {
+    display: flex;
+    border-style: none;
+    width: 450px;
+    height: 450px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+img#img2-3 {
+    width: 450px;
+    height: 450px;
+    background-color: #ddd;
+    overflow: hidden;
+    position: relative;
+    -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    -o-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+}
+
+.fhoto2 {
+    display: flex;
+}
+
+div#img4 {
+    display: flex;
+    border-style: none;
+    width: 450px;
+    height: 450px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+img#img2-4 {
+    width: 450px;
+    height: 450px;
+    background-color: #ddd;
+    overflow: hidden;
+    position: relative;
+    -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    -o-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+}
+
+div#img5 {
+    display: flex;
+    border-style: none;
+    width: 450px;
+    height: 450px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+img#img2-5 {
+    width: 450px;
+    height: 450px;
+    background-color: #ddd;
+    overflow: hidden;
+    position: relative;
+    -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    -moz-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    -o-box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+    box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+}
+
+.futer {
+    display: flex;
+    border-style: none;
+    background-color: black;
+    width: 100%;
+    height: 200px;
+    margin-top: 100px;
+}
+
+#body_button {
+    height: 300px;
+    margin: 0;
+    padding: 0;
+    color: #ddf;
+    text-align: center;
+    padding-top: 5px;
+
+}
+
+a.button_hola,
+a.button_hola::before,
+a.button_hola::after,
+a.button_hola span,
+a.button_hola span::before,
+a.button_hola span::after {
+    transition: all ease .5s;
+}
+
+a.button_hola {
+    position: relative;
+    display: inline-block;
+    padding: 0.3em;
+    margin: 1em;
+    border: solid 1px;
+    border-color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: white;
+}
+
+a.button_hola:hover {
+    box-shadow: 0 0 5em .5em rgba(100, 100, 100, 0.5);
+}
+
+a.button_hola span {
+    display: inline-block;
+    width: 100%;
+    padding: 0.6em 2em;
+}
+
+a.button_hola:hover span {
+    background-color: #fff;
+    color: #112;
+}
+
+a.button_hola::before,
+a.button_hola::after,
+a.button_hola span::before,
+a.button_hola span::after {
+    content: '';
+    position: absolute;
+    border: 1px;
+    border-color: white;
+}
+
+a.button_hola::before,
+a.button_hola span::before {
+    border-style: solid none;
+}
+
+a.button_hola::before,
+a.button_hola span::after {
+    left: 0;
+    top: -0.4em;
+    width: 100%;
+    height: calc(100% + 0.8em);
+}
+
+a.button_hola::after,
+a.button_hola span::after {
+    border-style: none solid;
+}
+
+a.button_hola::after,
+a.button_hola span::before {
+    top: 0;
+    left: -0.4em;
+    height: 100%;
+    width: calc(100% + 0.8em);
+}
+
+a.button_hola:hover::after,
+a.button_hola:hover span::after {
+    transform: scaleY(0);
+}
+
+a.button_hola:hover::before,
+a.button_hola:hover span::before {
+    transform: scaleX(0);
+}
+
+a.button_hola:hover span::after,
+a.button_hola:hover span::before {
+    opacity: 0;
+}
+
+

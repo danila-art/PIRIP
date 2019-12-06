@@ -1,0 +1,194 @@
+.boxfhoto1{
+	display: flex;
+}
+img#f1{
+	display: flex;
+	width: 350px;
+	height: 350px;
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+img#f2{
+	display: flex;
+	width: 350px;
+	height: 350px;
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+img#f3{
+	display: flex;
+	width: 350px;
+	height: 350px;
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+.boxfhoto2{
+	display: flex;
+}
+img#f4{
+	display: flex;
+	width: 350px;
+	height: 350px;
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+img#f5{
+	display: flex;
+	width: 350px;
+	height: 350px;
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+img#f6{
+	display: flex;
+	width: 350px;
+	height: 350px;
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+.boxfhoto3{
+	display: flex;
+}
+img#f7{
+	display: flex;
+	width: 350px;
+	height: 350px;
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+img#f8{
+	display: flex;
+	width: 350px;
+	height: 350px;
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+img#f9{
+	display: flex;
+	width: 350px;
+	height: 350px;
+	-webkit-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-moz-box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	box-shadow: inset 0 0 1px rgba(0,0,0,.8), inset 0 2px 0 rgba(255,255,255,.5), inset 0 -1px 0 rgba(0,0,0,.4);
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+.button{
+	display: flex;
+}
+div#buttonback{
+	border-style: none;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+div#buttonnext{
+	border-style: none;
+	margin-top: 50px;
+	margin-left: 1050px;
+}
+a#buttonnext1{
+	color: white;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 2px solid;
+    border-radius: 1px;
+    transition: 0.2s;
+    background: rgba(255, 255, 255, .2);
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+a#buttonnext1:hover{
+	  background: rgba(140, 140, 140, 0.51);
+}
+.corner-box-8 {
+    position: relative;
+    box-shadow: 20px 20px 36px rgba(0,0,0,0.2);
+    border: 11px solid #ededed;
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    margin-left: 40%;
+    text-align: center;
+/*    display: inline-block;*/
+}
+.corner-textbox-8:before {
+    content: " ";
+    position: absolute;
+    top: 0;    
+    left: 0;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    box-shadow: inset 10px 0 12px rgba(0,0,0,0.35);    
+}
+.corner-textbox-8 {
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.2);
+    background-color: #C0C0C0;
+    border: 12px solid #f5f5f5;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: cursive;
+    font-size: 26pt;
+
+}
